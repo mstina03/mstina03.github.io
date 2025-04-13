@@ -35,7 +35,7 @@ ___
 *	Creates new guidelines and recommends Engineering Change Proposal
 *	Ensures security standards are met anticipates problems, research trends in system needs and determines when new or additional hardware/software is required.
 *	Ensures that security is seamlessly and effectively integrated with the software development life cycle (SDLC).
-*	Used Visual Studio & Jet Brains Rider IDE to design and develop .Net & .Net Core applications
+
 
 ### Release Engineer <br> <sup> Walmart Global Tech, Bentonville, AR - January 2009 – June 2018 </sup> 							  
 *	Addressed software configuration management issues in coordination with development team.
