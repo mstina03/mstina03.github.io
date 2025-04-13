@@ -5,7 +5,7 @@
 </div>
 
 <span> 
- Prattville, AL 36066 <br> smithtina1203@aol.com <br> (334) XXX-XXXX <br> 
+ Prattville, AL 36066 <br> smithtina1203@aol.com <br> (334) 361-2025 <br> 
 </span>
  
  [Linkedin](https://www.linkedin.com/in/smithtina1203)
