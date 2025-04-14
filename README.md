@@ -1,11 +1,11 @@
 
 <div>
- <img src="https://github.com/mstina03/mstina03/blob/main/IMG_3873.jpeg" alt="Avatar" style="width:200px; overflow:hidden; border-radius:50%;"  />
- <img src="https://github.com/mstina03/mstina03/blob/main/Banner.jpg" style="float:right; width:625px; height:275px;"  />
+ <img src="/../../../mstina03/blob/main/IMG_3873.jpeg" alt="Avatar" style="width:200px; overflow:hidden; border-radius:50%;"  />
+ <img src="/../../../mstina03/blob/main/Banner.jpg"    alt="Banner" style="float:right; width:625px; height:275px;"  />
 </div>
 
 <span> 
- Prattville, AL 36066 <br> smithtina1203@aol.com <br> (334) XXX-XXXX <br> 
+ Prattville, AL 36066 <br> smithtina1203@aol.com <br> (334) 361-XXXX <br> 
 </span>
  
  [Linkedin](https://www.linkedin.com/in/smithtina1203)
