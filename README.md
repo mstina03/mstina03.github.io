@@ -60,9 +60,9 @@ ___
 ## Education
 ___
 
-### Software Engineering Bootcamp <br> <sup> [Texas A&M University Kingsville - Kingsville, Texas](https://www.quickstart.com/bootcamp/software-engineering/) </sup> 
+### Software Engineering Professional Development <br> <sup> [Texas A&M University Kingsville - Kingsville, Texas](https://www.quickstart.com/bootcamp/software-engineering/) </sup> 
 ##### March 2025 - August 2025
-* Immersive training program with an emphasis on Fullstack Web Development
+* Hands-on bootcamp with an emphasis on Fullstack Web Development
 * Developed web applications using React and Node.js
 * Skills: React, Node.js, JavaScript, HTML, CSS.
 
