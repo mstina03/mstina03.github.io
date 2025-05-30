@@ -29,38 +29,32 @@ ___
 ___
 ### Software Engineer <br> <sup> [Walmart Global Tech, Bentonville, AR - June 2018 – Aug 2024](https://tech.walmart.com/content/walmart-global-tech/en_us.html)	</sup>							
 
-*	Provides expertise of all aspects of high-performance computing, (architecture, engineering, software development, and data visualization) to support Walmart Strategic goals.
-*	Make enhancements to existing software applications and websites.
-*	Design and write new processes to accomplish business goals.
-*	Creates new guidelines and recommends Engineering Change Proposal
-*	Ensures security standards are met anticipates problems, research trends in system needs and determines when new or additional hardware/software is required.
-*	Ensures that security is seamlessly and effectively integrated with the software development life cycle (SDLC).
+* Designed and implemented new processes and features to align with evolving business objectives and streamline operations. 
+* Made enhancements to existing software applications and websites to improve performance, usability, and user experience.
 
-### Release Engineer <br> <sup> [Walmart Global Tech, Bentonville, AR - January 2009 – June 2018](https://tech.walmart.com/content/walmart-global-tech/en_us.html) </sup> 							  
-*	Addressed software configuration management issues in coordination with development team.
-*	Implemented code builds and automated deployment procedures.
-*	Resolved build and release dependencies in collaboration with other departments.
-*	Outlined build and deployment procedures in consultation with developers.
-*	Examined and executed application-specific deploy processes.
-*	Resolved system issues and inconsistencies in coordination with quality assurance and engineering teams. 
+### Release Engineer <br> <sup> [Walmart Global Tech, Bentonville, AR - January 2009 – June 2018](https://tech.walmart.com/content/walmart-global-tech/en_us.html) </sup> 
+
+* Collaborated with QA teams and developers to plan, schedule, and execute software releases with minimal disruption.
+* Facilitated communication between stakeholders to align on release goals, timelines, and risk mitigation strategies.
+* Monitored release progress and addressed issues proactively to ensure successful deployments.
 *	Maintained and updated source code repositories on a regular basis. 
-*	Assisted code integration and coordination between teams and partners. 
 
-### Programmer <br> <sup> [Walmart Global Tech, Bentonville, AR - July 2007 – January 2009](https://tech.walmart.com/content/walmart-global-tech/en_us.html)</sup>						    
-*	Provide customer support for various team applications.
-*	Research and correct data inconsistencies between databases.
-*	Modify existing software to meet change requests.
-*	Coordinate software releases. 
+### Programmer <br> <sup> [Walmart Global Tech, Bentonville, AR - July 2007 – January 2009](https://tech.walmart.com/content/walmart-global-tech/en_us.html)</sup>				
 
-### Vision Center Manager <br> <sup> [Walmart Supercenter, Demopolis, AL - September 2005 – July 2007](https://www.walmart.com/store/731-demopolis-al) </sup> 					              
-*	Manage confidential information & documentation as required by the company.
-*	Control inventory and shrink.
-*	Maintain proper staffing to support customer volume.
+* Modified and enhanced existing software applications in response to change requests and evolving business needs.
+* Provided customer and internal user support for a suite of team applications.
+* Investigated and resolved data inconsistencies across multiple databases, to improve data accuracy and reliability.
+
+### Vision Center Manager <br> <sup> [Walmart Supercenter, Demopolis, AL - September 2005 – July 2007](https://www.walmart.com/store/731-demopolis-al) </sup> 					  
+
+ * Oversaw inventory control processes to minimize shrinkage to ensure accurate stock levels.
+ * Managed confidential company documentation and employee information in compliance with internal policies and legal requirements.
+ * Maintained optimal staffing levels based on customer traffic patterns and business needs, to improve service efficiency and labor cost.
 
 ## Education
 ___
 
-### Software Engineering Professional Development <br> <sup> [Texas A&M University Kingsville - Kingsville, Texas](https://www.quickstart.com/bootcamp/software-engineering/) </sup> 
+### Certification - Software Engineering  <br> <sup> [QuickStart Inc.](https://www.quickstart.com/bootcamp/software-engineering/) </sup> 
 ##### March 2025 - August 2025
 * Hands-on bootcamp with an emphasis on Fullstack Web Development
 * Developed web applications using React and Node.js
@@ -80,7 +74,9 @@ ___
 
 ## Projects 
 ___
-Loading ...
+* [Portfolio v1.0](https://mstina03.github.io/Portfolio/)
+* [Search Engine v1.0](https://mstina03.github.io/SearchEngine/)
+* 
 
 ## References
 ___
