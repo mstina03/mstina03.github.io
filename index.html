@@ -37,6 +37,7 @@
                 <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
                 <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
                 <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#projects">Projects</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Awards</a></li>
                 <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
 
             </ul>
@@ -52,7 +53,7 @@
                     <span class="text-primary">Smith</span>
                 </h1>
                 <div class="subheading mb-5">
-                    Prattville, AL 36066 · (334) XXX-XXXX ·
+                    Prattville, AL 36066 ·
                     <a class="text-primary" href="mailto:smithtina1203@aol.com">smithtina1203@aol.com</a>
                 </div>
                 <p class="lead mb-5">Expert knowledge and skills, with a proven ability to lead projects from inception
@@ -61,8 +62,8 @@
                     Expert ability to work and communicate effectively with clients, software engineers, and management
                     in a highly visible, mission-critical environment both verbally and in writing.
 
-                    Experience collaborating with product owners and subject matter experts to understand business needs
-                    and recommend solutions on large and/or complex projects.
+                    Experience collaborating with product owners and subject matter experts to understand business
+                    needs.
 
                     Experience owning problems and working them to resolution by collaborating with the right people and
                     keeping management, peers, and teammates informed.</p>
@@ -216,6 +217,15 @@
         <section class="resume-section" id="projects">
             <div class="resume-section-content">
                 <h2 class="mb-5">Projects</h2>
+                <h3 class="mb-0">Kafka-to-SQL Real-Time Data Sync Service</h3>
+                <div class="subheading mb-3">Lead Developer</div>
+                <p>I built a service using Apache Kafka that listens to specific Kafka topics for real-time data events.
+                    The service parses each message and performs the corresponding insert, update, or delete operation
+                    on a SQL Server database.
+                    This system was designed for high reliability and low latency, ensuring
+                    that downstream applications always had up-to-date data without manual intervention. I also
+                    implemented error handling, logging, and retry logic to ensure data integrity in case of message
+                    delivery issues or database constraints.</p>
                 <div class="subheading mb-3">Hosted on GitHub</div>
                 <ul>
                     <li>
@@ -231,7 +241,28 @@
                 </ul>
             </div>
         </section>
+        <hr class="m-0" />
+        <!-- Awards-->
+        <section class="resume-section" id="awards">
+            <div class="resume-section-content">
+                <h2 class="mb-5">Awards & Certifications</h2>
+                <div class="d-flex flex-column flex-md-row justify-content-between">
+                    <div class="flex-grow-1">
+                        <h3 class="mb-0">MADA (Making A Difference Award)</h3>
+                        <div class="subheading mb-3">Issued by Walmart Global Tech</div>
 
+                        <p>Recognized for leading the development of my team's first Kafka consumer, enabling the
+                            transition of Global Location Number (GLN) creation to the Enterprise Location Master (ELM)
+                            team. Managed the entire workstream, including code/database updates, reporting, alerting,
+                            and cross-functional collaboration. And contributing to the Transformation team initiative
+                            by building and testing Kafka consumer/producer solutions to aide their
+                            team’s efforts.</p>
+                    </div>
+                    <div class="flex-shrink-0"><span class="text-primary">October 2021</span></div>
+                </div>
+
+            </div>
+        </section>
         <hr class="m-0" />
         <!-- Interests-->
         <section class="resume-section" id="interests">
