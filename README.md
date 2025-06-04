@@ -18,12 +18,9 @@ Seeking a position where I can contribute to the overall success of the organiza
 
 ## Key Qualifications		
 ___
-*	Expert knowledge and skills, with a proven ability to lead projects from inception through to production release.
-*	Expert ability to work and communicate effectively with clients, software engineers, and management in a highly visible, mission-critical environment both verbally and in writing.
-*	Experience collaborating with product owners and subject matter experts to understand business needs and recommend solutions on large and/or complex projects.
-*	Advanced working knowledge of, and ability to implement, continuous integration and continuous deployment (CI/CD) pipelines.
-*	Experience owning problems and working them to resolution by collaborating with the right people and keeping management, peers, and teammates informed.
-*	Experiences with .Net, C#, SQL, C, C++, HTML, CSS, JavaScript.
+Expert knowledge and skills, with a proven ability to lead projects from inception through to production release. Expert ability to work and communicate effectively with clients, software engineers, and management in a highly visible, mission-critical environment both verbally and in writing. Experience collaborating with product owners and subject matter experts to understand business needs. Experience owning problems and working them to resolution by collaborating with the right people and keeping management, peers, and teammates informed.
+
+Experiences with .Net, C#, SQL, C, C++, HTML, CSS, JavaScript.
 
 ## Work Experience
 ___
